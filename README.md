@@ -13,7 +13,7 @@ Contenant les devoirs mysql:
 3)Devoir de groupe:
 -devoir de groupe4.pdf
 
-4)Devoir gestion des notes:
--note.pdf
--travail.pdf
+4)Devoir cahier: gestion des notes et gestion de projet
+-cahier Antsa.pdf
+
 
