@@ -8,5 +8,12 @@ Contenant les devoirs mysql:
   -olympics_final.Sql
 2)exercice bd_air_maroc:
   -183I25_RANDRIAMIALISOA_Antsa_Ainatiavina.pdf
-  -bd_air_maroc.sql
+-bd_air_maroc.sql
+
+3)Devoir de groupe:
+-devoir de groupe4.pdf
+
+4)Devoir gestion des notes:
+-note.pdf
+-travail.pdf
 
